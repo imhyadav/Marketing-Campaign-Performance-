@@ -36,7 +36,7 @@ The dashboard enables marketing teams to monitor and optimize campaign performan
 |------|--------------|
 | `marketing campaign performance.xlsx.xlsx` | Dataset containing marketing campaign spend, revenue, and click data |
 | `marketing campaign analysis.jpeg` | Power BI dashboard screenshot |
-| *(Optional)* `Marketing_Campaign.pbix` | Power BI file for further modification |
+| *`Marketing_Campaign.pbix` | Power BI file for further modification |
 
 ---
 
